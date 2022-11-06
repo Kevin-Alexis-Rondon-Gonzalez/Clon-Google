@@ -8,8 +8,7 @@ body{
     font-size: 13px;
     font-family: Arial, Helvetica, sans-serif;
     height: 100vh;
-     overflow-x:scroll;
-     overflow-y:hidden;
+    box-sizing: border-box;
 }
 ul{
     display: flex;
